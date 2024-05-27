@@ -1,5 +1,5 @@
 # ONLINE SHOPPING STORE
-![image of online-shopping](https://ibb.co/2kzdd6s)
+![image of online-shopping](https://i.ibb.co/RDXccSB/01-home-page.png)
 This project uses Django to create a basic but functional online store. To handle orders and items, the app offers a personalized dashboard. Customers may click "like" on a product, put it in their cart, and check out. Order processing is available, however a fictitious pay system is used to handle payments.
 [Preview](#app-preview)
 ### Available Features
