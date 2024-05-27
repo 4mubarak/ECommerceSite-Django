@@ -61,6 +61,7 @@ This project uses Django to create a functional online shopping store. To handle
 ## How to Contribute
 
 I welcome contributions to enhance and customize this project. If you would like to contribute, please follow these steps:
+
 1.✅ Fork the repository on GitHub.
 
 2.✅ Create a new branch with a descriptive name for your feature or bug fix.
