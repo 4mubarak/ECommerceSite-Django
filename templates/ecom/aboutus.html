@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Simple E-commerce</title>
+  <style media="screen">
+    .footer{
+      position: fixed;
+    }
+  </style>
+</head>
+
+<body style="background-color:#f7f7f7;">
+  {%if request.user.is_authenticated%}
+    {% include "ecom/customer_navbar.html" %}
+  {%else%}
+    {% include "ecom/navbar.html" %}
+  {%endif%}
+  <br><br><br>
+<h3 style="text-align:center;">" Welcome to online-shopping Where Quality Meets Excellence!
+
+online-shopping was founded in 2024 by Mubarak Abdullahi. What started as a small venture in Abuja has grown into a leading online destination for products. Our journey began with a simple mission: to provide high-quality products that fulfill a need for our customers.
+
+Our Mission
+
+At online-shopping, our mission is eazy to buy our products online and to deliver worldwide within one week.These principles guide everything we do. We strive to deliver exceptional products and an unparalleled shopping experience to each and every customer.
+
+Our Products
+
+We offer a wide range of products, including Cars, mobile phones, computer laptops & Desktop, men and women dresses, furniture, office equipment, food e.t.c. Each item in our collection is carefully curated to ensure it meets our high standards of quality and functionality. Whether you're looking for specific product, you'll find the perfect solution at online-shopping.
+
+Why Choose Us?
+
+Quality Assurance: We stand behind the quality of our products and offer a satisfaction guarantee.
+Customer Service: Our dedicated customer support team is always here to help with any questions or concerns.
+Fast Shipping: Enjoy quick and reliable delivery on all orders.
+Secure Shopping: We prioritize your privacy and security with state-of-the-art encryption technology.
+
+Meet the Team
+
+Our success is driven by our talented and passionate team. From our knowledgeable customer service representatives to our skilled product developers, every team member at online-shopping is committed to providing you with the best shopping experience. " </h3>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  {% include "ecom/footer.html" %}
+</body>
+
+
+</html>
