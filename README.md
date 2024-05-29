@@ -86,7 +86,7 @@ Feel free to explore, contribute, and customize this according to your needs!
 
 # Author :pen:
 
-[Mubarak Abdullahi](https://mgmustyportfolio-io.onrender.com/)
+[Mubarak Abdullahi](https://github.com/4mubarak.com)
 
 [Linkedin](www.linkedin.com/in/mubarak-abdullahi-a30411161)
 
