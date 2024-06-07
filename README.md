@@ -2,7 +2,7 @@
 
  https://smart3.pythonanywhere.com
 
-[image of online-shopping](https://i.ibb.co/RDXccSB/01-home-page.png)
+[image of online-shopping](https://i.ibb.co/T1dk3df/01-home-page.png)
 [image customer-login](https://i.ibb.co/GCtR423/3-customer-login.png)
 [image customer-register](https://i.ibb.co/wdMzjQN/02-customer-register.png)
 [image Add to cart](https://i.ibb.co/5WH7Xhq/04-customer-add-to-cart.png)
