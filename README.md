@@ -1,7 +1,14 @@
 # ONLINE SHOPPING STORE
 
  https://smart3.pythonanywhere.com
-[online shopping](https://i.ibb.co/T1dk3df/01-home-page.png)
+[image of online-shopping](https://i.ibb.co/T1dk3df/01-home-page.png)
+[image customer-login](https://i.ibb.co/GCtR423/3-customer-login.png)
+[image customer-register](https://i.ibb.co/wdMzjQN/02-customer-register.png)
+[image Add to cart](https://i.ibb.co/5WH7Xhq/04-customer-add-to-cart.png)
+[image profile edit](https://i.ibb.co/8r4p4Yb/05-customer-profile-edit.png)
+[image Admin](https://i.ibb.co/tCFbqnQ/07-Adminlogin.png)
+[image Dashboard](https://i.ibb.co/zr6HWKh/08-admindashboard.png)
+[image track](https://i.ibb.co/HHhsrYq/09-track-orders.png)
 
 This project uses Django to create a functional online shopping store. To handle orders and items, the app offers a personalized dashboard. Customers may click "like" on a product, put it in their cart, and check out. Order processing is available, however a fictitious pay system is used to handle payments.
 
